@@ -1,0 +1,16 @@
+.RT9193-33GB :1 ;300mA, Ultra-Low Noise, Ultra-Fast CMOS LDO Regulator
+SOT94P279X130-5N
+*STM IC
+*NGS
+*PLB 1="VIN" 2="GND" 3="EN" 4="BP" 5="VOUT"
+*MXP 5
+*DFN RT9193-33GB
+~!Mouser Part Number (835-RT9193-33GB)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Richtek/RT9193-33GB?qs=amGC7iS6iy8ybRcZ9Wn2ww%3D%3D)
+~!Manufacturer_Name (RICHTEK)
+~!Manufacturer_Part_Number (RT9193-33GB)
+~!Link Datasheet (http://www.richtek.com/assets/product_file/RT9193/DS9193-17.pdf)
+~!Height (1.295mm)
+~!3D_Model (RT9193-33GB)
+RT9193-33GB
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

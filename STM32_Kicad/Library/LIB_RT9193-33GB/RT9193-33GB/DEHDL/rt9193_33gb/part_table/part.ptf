@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RT9193_33GB'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "RICHTEK", "RT9193-33GB" (!) = "", "SOT94P279X130-5N", "SOT23 (5-Pin)", "835-RT9193-33GB", "https://www.mouser.co.uk/ProductDetail/Richtek/RT9193-33GB?qs=amGC7iS6iy8ybRcZ9Wn2ww%3D%3D", "300mA, Ultra-Low Noise, Ultra-Fast CMOS LDO Regulator", "http://www.richtek.com/assets/product_file/RT9193/DS9193-17.pdf", "1.295 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=RICHTEK
+PartNumber=RT9193-33GB
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.2
+Released=2017-11-08 11:56:39
+Downloaded=2025-02-24 08:58:05
+3D=Y
