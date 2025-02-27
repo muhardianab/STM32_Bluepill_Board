@@ -8603,7 +8603,7 @@
 			)
 		)
 	)
-	(global_label "3V3"
+	(global_label "+3V3"
 		(shape input)
 		(at 353.06 68.58 180)
 		(fields_autoplaced yes)
@@ -8615,7 +8615,7 @@
 		)
 		(uuid "6381e871-a384-4f4d-a5a0-eec664ca96eb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 346.5672 68.58 0)
+			(at 344.9948 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9891,22 +9891,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 69eec847-81f2-41d3-b70d-c91a8be1b863)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 20.32 121.92) (xy 71.12 121.92) (xy 71.12 167.64) (xy 20.32 167.64)
-			)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 9494bff9-3fe5-4eee-aa04-275eabb48386)
+			(uuid 08dcf42a-43be-4a21-b2ce-d094ddd289c1)
 		)
 	)
 	(rule_area
@@ -9922,7 +9907,22 @@
 			(fill
 				(type none)
 			)
-			(uuid efd2aadf-f516-4b98-96e8-1208b6429ee9)
+			(uuid 5c0024c8-cd05-4ba6-95cd-da91fc416622)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 20.32 121.92) (xy 71.12 121.92) (xy 71.12 167.64) (xy 20.32 167.64)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill
+				(type none)
+			)
+			(uuid aeeb60d2-d610-41ba-8be9-1ef6abd550e3)
 		)
 	)
 	(symbol
