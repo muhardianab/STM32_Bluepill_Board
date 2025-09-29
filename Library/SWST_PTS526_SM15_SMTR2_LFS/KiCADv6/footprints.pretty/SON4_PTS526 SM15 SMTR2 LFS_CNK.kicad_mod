@@ -547,4 +547,15 @@
 		(uuid "3d25ac92-e99a-421b-bcd0-7718f97b0b8f")
 	)
 	(embedded_fonts no)
+	(model "C:/Users/AR/Documents/GitHub/STM32_Board/Library/SWST_PTS526_SM15_SMTR2_LFS/SON4_PTS526SM15SMTR2LFS_CNK.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
